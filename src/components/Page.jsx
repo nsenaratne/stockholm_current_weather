@@ -119,6 +119,9 @@ function App() {
 
           {/*Current weather Deatails */}
           <CurrentDetails weather={weather} units={units} />
+
+          {/* Footer */}
+          <Footer />
         </div>
       )}
     </div>

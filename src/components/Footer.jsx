@@ -14,9 +14,6 @@ const Footer = () => {
               alt='Weather Stockholm'
               className='w-[266px] h-[72.14px] object-contain'
             />
-            <p className='flex justify-center items-center mt-3 p-2 bg-sky-200 rounded-full shadow-xl'>
-              2023
-            </p>
           </div>
         </div>
       </section>
